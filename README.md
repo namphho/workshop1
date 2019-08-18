@@ -17,3 +17,5 @@ coomit 6
 coomit 7
 
 commit 6 - fixBug
+
+commit 8
